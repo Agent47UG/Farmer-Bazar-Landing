@@ -86,7 +86,7 @@ export default function Hero({ onOpenDownload }) {
                 }`}
               >
                 <img
-                  src="/assets/Screenshot_20260705_031115-portrait.png"
+                  src="/assets/Screenshot_20260705_031115-portrait.webp"
                   alt="Farmer Bazar Marketplace Screen"
                   className="w-full h-auto object-cover rounded-[24px] block border-0 outline-none bg-transparent"
                 />
@@ -102,7 +102,7 @@ export default function Hero({ onOpenDownload }) {
                 }`}
               >
                 <img
-                  src="/assets/Screenshot_20260705_031132-portrait.png"
+                  src="/assets/Screenshot_20260705_031132-portrait.webp"
                   alt="Farmer Bazar Map Radius Screen"
                   className="w-full h-auto object-cover rounded-[24px] block border-0 outline-none bg-transparent"
                 />
